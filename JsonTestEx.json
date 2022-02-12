@@ -1,0 +1,28 @@
+{
+    "EmployeeName": "Test",
+    "EmployeeSurName": "2",
+    "EmployeeAge": 15,
+    "EmployeeOccupation": "Test",
+    "Adrese": [
+        {
+            "EmployeeDetail": "xxx",
+            "City": "xxx"
+        },
+        {
+            "EmployeeDetail": "xxx",
+            "City": "xxx"
+        },
+        {
+            "EmployeeDetail": "xxx",
+            "City": "xxx"
+        }
+    ]
+     
+ }
+
+ {
+    "JobName": "Test",
+    "JobDescription": "2"
+    
+     
+ }
